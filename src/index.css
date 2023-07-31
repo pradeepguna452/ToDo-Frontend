@@ -1,0 +1,11 @@
+
+.input-tag{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    color: white;
+}
+
+.input-tag ::placeholder {
+    color: red;
+}
